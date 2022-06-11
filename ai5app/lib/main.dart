@@ -70,7 +70,6 @@ class _HomePageState extends State<HomePage> {
     HomePage1(),
     Text("Contador"),
     HomePage3(),
-    //Text("calculadora"),
   ];
   //indice
 _onItemTapped(int _index){
