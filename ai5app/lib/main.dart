@@ -68,7 +68,7 @@ class _HomePageState extends State<HomePage> {
   //lista de widget
   List<Widget> _userScreen = <Widget>[
     HomePage1(),
-    Text("Contador"),
+    HomePage2(),
     HomePage3(),
   ];
   //indice
