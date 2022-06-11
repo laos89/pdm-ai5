@@ -67,7 +67,6 @@ class _HomePageState extends State<HomePage> {
 
   //lista de widget
   List<Widget> _userScreen = <Widget>[
-    //Text("botones"),
     HomePage1(),
     Text("Contador"),
     HomePage3(),
